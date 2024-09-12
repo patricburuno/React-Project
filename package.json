@@ -12,5 +12,13 @@
     "age"
   ],
   "author": "patric",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patricburuno/React-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/patricburuno/React-Project/issues"
+  },
+  "homepage": "https://github.com/patricburuno/React-Project#readme"
 }
