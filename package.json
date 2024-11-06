@@ -1,24 +1,36 @@
 {
   "name": "react",
   "version": "1.0.0",
-  "description": "patric react work",
-  "main": "App.js",
+  "description": "patric learn react ",
+ 
   "scripts": {
-    "test": "jest"
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest "
   },
-  "keywords": [
-    "npm",
-    "pack",
-    "age"
-  ],
-  "author": "patric",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/patricburuno/React-Project.git"
   },
+  "keywords": [
+    "react",
+    "Project"
+  ],
+  "author": "patric",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/patricburuno/React-Project/issues"
   },
-  "homepage": "https://github.com/patricburuno/React-Project#readme"
+  "homepage": "https://github.com/patricburuno/React-Project#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browersList" : [
+    "last 2 versions"
+  ]
 }
